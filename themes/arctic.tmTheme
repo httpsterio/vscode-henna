@@ -122,8 +122,6 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#66D9EF</string>
 			</dict>
@@ -233,8 +231,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#00BAC7</string>
-				<key>fontStyle</key>
-				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
