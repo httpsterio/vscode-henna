@@ -4,6 +4,11 @@
     "description": "An arctic theme with flat colors for legibility",
     "version": "0.0.1",
     "publisher": "httpsterio",
+    "icon": "icon.jpg",
+    "galleryBanner": {
+        "color": "#21272E",
+        "theme": "dark"
+    },
     "repository": "https://github.com/httpsterio/vscode-arctic",
     "engines": {
         "vscode": "^1.5.0"
