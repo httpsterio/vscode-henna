@@ -1,0 +1,23 @@
+{
+    "name": "theme-arctic",
+    "displayName": "arctic",
+    "description": "An arctic theme with flat colors for legibility",
+    "version": "0.0.1",
+    "publisher": "httpsterio",
+    "repository": "https://github.com/httpsterio/vscode-arctic",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "arctic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/arctic.tmTheme"
+            }
+        ]
+    }
+}
