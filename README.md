@@ -4,3 +4,5 @@ A dark, colourful flat color scheme made mainly for my personal use. It features
 ![Screenshot](https://github.com/httpsterio/vscode-arctic/blob/master/screenshot.JPG?raw=true)
 
 This is the first release of my first VSCode extension, arctic.
+
+test
