@@ -1,15 +1,15 @@
 {
-    "name": "theme-arctic",
-    "displayName": "arctic",
-    "description": "An arctic theme with flat colors for legibility",
-    "version": "0.2.1",
+    "name": "vscode-henna",
+    "displayName": "henna",
+    "description": "A colour scheme with flat colors for legibility. Inspired by my ginger girlfriend. ",
+    "version": "0.3.0",
     "publisher": "httpsterio",
     "icon": "icon.jpg",
     "galleryBanner": {
         "color": "#21272E",
         "theme": "dark"
     },
-    "repository": "https://github.com/httpsterio/vscode-arctic",
+    "repository": "https://github.com/httpsterio/vscode-henna",
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -19,9 +19,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "arctic",
+                "label": "henna",
                 "uiTheme": "vs-dark",
-                "path": "./themes/arctic.tmTheme"
+                "path": "./themes/henna.tmTheme"
             }
         ]
     }
