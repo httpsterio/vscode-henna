@@ -1,17 +1,11 @@
 {
-    "name": "vscode-henna",
+    "name": "henna",
     "displayName": "henna",
-    "description": "A colour scheme with flat colors for legibility. Inspired by my ginger girlfriend. ",
-    "version": "0.3.0",
+    "description": "",
+    "version": "0.0.1",
     "publisher": "httpsterio",
-    "icon": "icon.jpg",
-    "galleryBanner": {
-        "color": "#21272E",
-        "theme": "dark"
-    },
-    "repository": "https://github.com/httpsterio/vscode-henna",
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
         "Themes"
@@ -21,7 +15,7 @@
             {
                 "label": "henna",
                 "uiTheme": "vs-dark",
-                "path": "./themes/henna.tmTheme"
+                "path": "./themes/henna-color-theme.json"
             }
         ]
     }

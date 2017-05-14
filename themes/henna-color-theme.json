@@ -1,0 +1,191 @@
+{
+  "name": "henna",
+  "colors": {
+    "activityBar.background": "#53df83",
+    "activityBar.dropBackground": "#21272e",
+    "activityBar.foreground": "#21272e",
+    "activityBarBadge.foreground": "#f8f8f0",
+    "activityBarBadge.background": "#21272e",
+    "button.background": "#53df83",
+		"button.foreground": "#21272e",
+		"button.hoverBackground": "#30c965",
+    "dropdown.background": "#53df83",
+		"dropdown.foreground": "#21272e",
+    "dropdown.border": "#181A1F",
+    "editor.background": "#21272e",
+    "editor.foreground": "#abb2bf",
+    "editor.lineHighlightBackground": "#2c313a",
+    "editor.selectionBackground": "#3E4451",
+    "editorCursor.foreground": "#61afef",
+    "editor.findMatchBackground": "#42557B",
+    "editor.findMatchHighlightBackground": "#314365",
+    "editorGroup.background": "#181A1F",
+    "editorGroup.border": "#181A1F",
+    "editorGroupHeader.tabsBackground": "#181A1F",
+    "editorIndentGuide.background": "#3B4048",
+    "editorLineNumber.foreground": "#495162",
+    "editorWhitespace.foreground": "#3B4048",
+    "editorHoverWidget.background": "#282C34",
+    "editorHoverWidget.border": "#181A1F",
+    "editorSuggestWidget.background": "#21272e",
+    "editorSuggestWidget.border": "#181A1F",
+    "editorSuggestWidget.selectedBackground": "#2c313a",
+    "editorWidget.background": "#21272e",
+    "input.background": "#181A1F",
+    "list.activeSelectionBackground": "#21272e",
+    "list.activeSelectionForeground": "#d7dae0",
+    "list.inactiveSelectionBackground": "#21272e",
+    "list.hoverBackground": "#292d35",
+    "list.focusBackground": "#2c313a",
+    "notification.background": "#21272e",
+    "sideBar.background": "#181A1F",
+    "sideBarSectionHeader.background": "#21272e",
+    "statusBar.background": "#21272e",
+    "statusBar.foreground": "#9da5b4",
+    "statusBarItem.hoverBackground": "#2c313a",
+    "statusBar.noFolderBackground": "#21272e",
+    "statusBar.debuggingBackground": "#21272e",
+    "tab.activeBackground": "#21272e",
+    "tab.activeForeground": "#9da5b4",
+    "tab.border": "#181A1F",
+    "tab.inactiveBackground": "#181A1F",
+    "tab.inactiveForeground": "#737c8c",
+    "titleBar.activeBackground": "#21272e",
+    "titleBar.activeForeground": "#9da5b4",
+    "titleBar.inactiveBackground": "#21272e",
+    "titleBar.inactiveForeground": "#6B717D"
+  },
+  "tokenColors": [
+    {
+      "name": "Iron",
+      "scope": [
+        "support.type.property-name",
+        "support.variable",
+        "variable"
+      ],
+      "settings": {
+        "foreground": "#D2D6db"
+      }
+    },
+    {
+      "name": "Cornflower Blue",
+      "scope": [
+        "markup.inline.raw",
+        "storage.type",
+        "support.constant",
+        "support.type",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#61afef"
+      }
+    },
+    {
+      "name": "Fountain Blue",
+      "scope": [
+        "constant",
+        "keyword.other.unit"
+      ],
+      "settings": {
+        "foreground": "#56b6c2"
+      }
+    },
+    {
+      "name": "Shuttle Gray",
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#5c6370"
+      }
+    },
+    {
+      "name": "Raven",
+      "scope": [
+        "meta.brace",
+        "punctuation.definition.array",
+        "punctuation.definition.binding-pattern",
+        "punctuation.definition.block",
+        "punctuation.definition.dictionary",
+        "punctuation.definition.string",
+        "punctuation.definition.tag",
+        "punctuation.section",
+        "punctuation.separator",
+        "punctuation.support",
+        "punctuation.terminator"
+      ],
+      "settings": {
+        "foreground": "#737c8c"
+      }
+    },
+    {
+      "name": "Olivine",
+      "scope": [
+        "string",
+        "markup.quote",
+        "markup.bold",
+        "markup.italic"
+      ],
+      "settings": {
+        "foreground": "#98c379"
+      }
+    },
+    {
+      "name": "Whiskey",
+      "scope": [
+        "entity.name.class",
+        "entity.name.function",
+        "entity.name.type",
+        "entity.other.attribute-name",
+        "entity.other.inherited-class",
+        "markup.heading.setext",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#d19a66"
+      }
+    },
+    {
+      "name": "Harvest Gold",
+      "scope": [
+        "entity.name.tag",
+        "storage",
+        "variable.language"
+      ],
+      "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "Sunglo",
+      "scope": [
+        "keyword",
+        "punctuation.definition.keyword"
+      ],
+      "settings": {
+        "foreground": "#e06c75"
+      }
+    },
+    {
+      "name": "Bold",
+      "scope": [
+        "markup.bold.markdown",
+        "punctuation.definition.bold.markdown"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Italic",
+      "scope": [
+        "comment",
+        "markup.italic.markdown",
+        "punctuation.definition.italic.markdown"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}
