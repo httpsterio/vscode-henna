@@ -2,7 +2,7 @@
     "name": "henna",
     "displayName": "Henna Color Theme",
     "description": "",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "httpsterio",
     "homepage": "http://httpster.io/vscode-henna",
     "repository": {
@@ -13,7 +13,7 @@
         "color": "#21272e",
         "theme": "dark"
     },
-    "icon": "henna-color-theme.png",
+    "icon": "henna-logo.jpg",
     "engines": {
         "vscode": "^1.12.0"
     },

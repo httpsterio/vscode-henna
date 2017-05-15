@@ -1,5 +1,8 @@
 # Change Log
 
+### 0.3.0
+Oops wrong icon.
+
 ### 0.2.0
 Updated readme and store presentation.
 
