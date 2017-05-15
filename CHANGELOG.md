@@ -1,8 +1,11 @@
 # Change Log
 
-### 1.13
+### 0.2.0
+Updated readme and store presentation.
+
+### 0.1.0
 Rewrote the theme with the new VSCode color format. Major release when all key values are implemented. Is functional and legible now.
 
 
-### 1.12
+### 0.0.1
 Colors finished with the thTheme-format.
