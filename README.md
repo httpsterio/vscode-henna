@@ -5,7 +5,7 @@
 
 This theme is inspired by my sweet green-eyed redhead girlfriend.
 
-Recommended font [Fira Code]() with ligatures.
+Recommended font [Fira Code](https://github.com/tonsky/FiraCode) with [ligatures](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions).
 
 [Check it out](https://marketplace.visualstudio.com/items?itemName=httpsterio.vscode-henna) on the Extension Marketplace.
 
