@@ -1,6 +1,5 @@
+<h1 align="center">VSCode Color Theme Henna</h1>
 <p align="center">
-<h1>VSCode Color Theme Henna</h1>
-
   <img src="https://github.com/httpsterio/vscode-henna/raw/master/henna-logo.jpg">
 </p>
 
