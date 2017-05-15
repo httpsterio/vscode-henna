@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "henna"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# VSCode Color Theme Henna
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+This theme is inspired by my sweet green-eyed redhead girlfriend.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Recommended font [Fira Code]() with ligatures.
 
-**Enjoy!**
+[Check it out](https://marketplace.visualstudio.com/items?itemName=httpsterio.vscode-henna) on the Extension Marketplace.
+
+<p align="center">
+  <img src="">
+</p>

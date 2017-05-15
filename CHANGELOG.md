@@ -1,7 +1,8 @@
 # Change Log
-All notable changes to the "henna" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### 1.13
+Rewrote the theme with the new VSCode color format. Major release when all key values are implemented. Is functional and legible now.
 
-## [Unreleased]
-- Initial release
+
+### 1.12
+Colors finished with the thTheme-format.
