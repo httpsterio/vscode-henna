@@ -1,8 +1,8 @@
 <p align="center">
+<h1>VSCode Color Theme Henna</h1>
+
   <img src="https://github.com/httpsterio/vscode-henna/raw/master/henna-logo.jpg">
 </p>
-
-# VSCode Color Theme Henna
 
 This theme is inspired by my sweet green-eyed redhead girlfriend.
 
