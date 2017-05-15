@@ -31,6 +31,8 @@
     "editorSuggestWidget.border": "#181A1F",
     "editorSuggestWidget.selectedBackground": "#2c313a",
     "editorWidget.background": "#21272e",
+    "editor.wordHighlightBackground": "#e74c3c",
+    
     "input.background": "#161416",
     "input.border": "#10151a",
     "input.foreground": "#f8f8f0",
