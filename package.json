@@ -1,8 +1,8 @@
 {
     "name": "henna",
     "displayName": "Henna Color Theme",
-    "description": "",
-    "version": "0.3.0",
+    "description": "A colourful, yet legible theme with the new theme format. Inspired by my green-eyed redhead girl.",
+    "version": "0.4.0",
     "publisher": "httpsterio",
     "homepage": "http://httpster.io/vscode-henna",
     "repository": {
