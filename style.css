@@ -22,25 +22,19 @@ body {
   font-family: 'Fira Mono', monospace;
   font-size: 30px;
   color: #1abc9c;
-  -webkit-animation: colorchange 50s;
+  -webkit-animation: colorchange 4s ease-in-out;
   /* Chrome and Safari */
 }
 
 @keyframes colorchange {
   0% {
-    background: red;
-  }
-  25% {
-    background: yellow;
+    background: #f8f8f0;
   }
   50% {
-    background: blue;
-  }
-  75% {
-    background: green;
+    background: #53df83;
   }
   100% {
-    background: red;
+    background: #21272e;
   }
 }
 
@@ -49,19 +43,10 @@ body {
 
 {
   0% {
-    background: red;
-  }
-  25% {
-    background: yellow;
-  }
-  50% {
-    background: blue;
-  }
-  75% {
-    background: green;
+    background: #f8f8f0;
   }
   100% {
-    background: red;
+    background: #21272e;
   }
 }
 
