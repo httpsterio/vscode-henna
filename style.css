@@ -84,8 +84,8 @@ img {
 }
 
 .rotate {
-  -webkit-transition: -webkit-transform .8s ease-in-out;
-          transition:         transform .8s ease-in-out;
+  -webkit-transition: -webkit-transform .8s linear;
+          transition:         transform .8s linear;
 }
 .rotate:hover {
   -webkit-transform: rotate(360deg);
