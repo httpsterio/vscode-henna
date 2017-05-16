@@ -28,7 +28,7 @@ h1 {
   color: #e74c3c;
   font-family: 'Fira Mono', monospace;
   font-weight: 700;
-  -webkit-animation: colorchange 4s ease-in-out infinite;
+  -webkit-animation: colorchange 6s ease-in-out infinite;
   /* Chrome and Safari */
 }
 
