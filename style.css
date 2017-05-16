@@ -7,7 +7,7 @@
 
 * {
   margin: 0;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 html,
@@ -81,4 +81,13 @@ p {
 
 img {
   max-width: 700px;
+}
+
+.rotate {
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+}
+.rotate:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
 }
