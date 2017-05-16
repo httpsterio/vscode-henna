@@ -22,19 +22,31 @@ body {
   font-family: 'Fira Mono', monospace;
   font-size: 30px;
   color: #1abc9c;
-  -webkit-animation: colorchange 4s ease-in-out;
+}
+
+h1 {
+  color: #e74c3c;
+  font-family: 'Fira Mono', monospace;
+  font-weight: 700;
+  -webkit-animation: colorchange 4s ease-in-out infinite;
   /* Chrome and Safari */
 }
 
 @keyframes colorchange {
   0% {
-    background: #f8f8f0;
+    color: #e74c3c;
+  }
+  25% {
+    color: #53df83;
   }
   50% {
-    background: #53df83;
+    color: #1abc9c;
+  }
+  75% {
+    color: #f8f8f0;
   }
   100% {
-    background: #21272e;
+    color: #e74c3c;
   }
 }
 
@@ -43,67 +55,80 @@ body {
 
 {
   0% {
-    background: #f8f8f0;
+    color: #e74c3c;
+  }
+  25% {
+    color: #53df83;
+  }
+  50% {
+    color: #1abc9c;
+  }
+  75% {
+    color: #f8f8f0;
   }
   100% {
-    background: #21272e;
+    color: #e74c3c;
   }
 }
 
-h1 {
-  color: #e74c3c;
-  font-family: 'Fira Mono', monospace;
-  font-weight: 700;
-}
 .page-wrap {
   min-height: 100%;
   /* equal to footer height */
-
   margin-bottom: -50px;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
+
 .page-wrap:after {
   content: "";
   display: block;
 }
+
 .site-footer,
 .page-wrap:after {
   height: 40px;
 }
+
 .site-footer {
   background: #1ABC9C;
   font-size: 0.8em;
   padding-top: 10px;
   color: #21272e;
 }
+
 ::selection {
   background: #1ABC9C;
   color: #21272e;
 }
+
 h1:hover::after {
   content: ', olet rakas <3';
 }
+
 header {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
 p {
   color: #e74c3c;
   font-size: 0.7em;
   text-align: left;
   padding: 10px;
 }
+
 img {
   max-width: 80%;
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
 .rotate {
   -webkit-transition: -webkit-transform .8s ease-in-out;
   transition: transform .8s ease-in-out;
 }
+
 .rotate:hover {
   -webkit-transform: rotate(360deg);
   transform: rotate(360deg);
