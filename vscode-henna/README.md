@@ -10,5 +10,5 @@ Recommended font [Fira Code](https://github.com/tonsky/FiraCode) with [ligatures
 [Check it out](https://marketplace.visualstudio.com/items?itemName=httpsterio.vscode-henna) on the Extension Marketplace.
 
 <p align="center">
-  <img src="https://github.com/httpsterio/vscode-henna/raw/master/vscode-henna/henna-color-theme.pngg">
+  <img src="https://github.com/httpsterio/vscode-henna/raw/master/vscode-henna/henna-color-theme.png">
 </p>
