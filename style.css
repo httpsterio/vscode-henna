@@ -28,6 +28,7 @@ h1 {
   color: #e74c3c;
   font-family: 'Fira Mono', monospace;
   font-weight: 700;
+  margin-top: -10px;
   -webkit-animation: colorchange 6s ease-in-out infinite;
   /* Chrome and Safari */
 }
@@ -107,8 +108,8 @@ h1:hover::after {
 }
 
 header {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 p {
@@ -120,8 +121,6 @@ p {
 
 img {
   max-width: 80%;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 .rotate {
@@ -132,4 +131,21 @@ img {
 .rotate:hover {
   -webkit-transform: rotate(360deg);
   transform: rotate(360deg);
+}
+
+a {
+  color:#53df83;
+}
+
+a:visited {
+  color: #1abc9c;
+}
+
+a:hover {
+  color: #f8f8f0;
+}
+
+.screenshot {
+  border: 5px solid #1ABC9C;
+  margin-top:20px;
 }

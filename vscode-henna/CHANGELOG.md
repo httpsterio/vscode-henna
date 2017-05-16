@@ -1,5 +1,8 @@
 # Change Log
 
+### 0.6.0
+Updated the icon to svg, updated the description and website.
+
 ### 0.4.0
 Added description
 
