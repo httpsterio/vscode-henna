@@ -1,5 +1,8 @@
 # Change Log
 
+### 0.10.0
+Merged a small update from LunarTwilight (thanks!) fixing hilights when searching. Fixed image previews hopefully and updated icon from SVG to PNG :D
+
 ### 0.6.0
 Updated the icon to svg, updated the description and website.
 
