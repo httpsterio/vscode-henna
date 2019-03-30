@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "vscode-henna-light"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<h1 align="center">Henna Color Theme for Visual Studio Code</h1>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<p>Henna is a colour theme inspired by my green-eyed redhead girl. The colors are carefully selected with legibility and people with dyslexia in mind to create an accessible theme for Visual Studio Code</p>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<p>Download the theme on the <a href="https://marketplace.visualstudio.com/items?itemName=httpsterio.henna">VSCode Extension marketplace</a> or <a href="https://github.com/httpsterio/vscode-henna">fork it on GitHub</a></p>
 
-**Enjoy!**
+<p>Recommended font is <a href="https://github.com/tonsky/FiraCode">Fira Code</a> with <a href="https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions">font ligatures</a>.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/httpsterio/vscode-henna/master/vscode-henna/henna-color-theme.jpg">
+</p>

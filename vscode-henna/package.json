@@ -1,11 +1,21 @@
 {
-  "name": "vscode-henna-light",
-  "displayName": "VSCode-Henna-Light",
-  "description": "Light theme",
-  "version": "0.0.1",
+  "name": "henna",
+  "displayName": "Henna Color Theme",
+  "description": "Henna is a colour theme inspired by my green-eyed redhead girl. The colors are carefully selected with legibility and people with dyslexia in mind to create an accessible theme for Visual Studio Code",
+  "version": "0.10.0",
   "publisher": "httpsterio",
+  "homepage": "http://httpster.io/vscode-henna",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/httpsterio/vscode-henna"
+  },
+  "galleryBanner": {
+    "color": "#21272e",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
   "engines": {
-    "vscode": "^1.28.0"
+    "vscode": "^1.12.0"
   },
   "categories": [
     "Themes"
@@ -13,15 +23,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Henna Light",
-        "uiTheme": "vs-light",
-        "path": "./themes/henna-light.json"
-      },
-      {
-        "label": "Henna Dark",
+        "label": "Henna",
         "uiTheme": "vs-dark",
-        "path": "./themes/henna-dark.json"
+        "path": "./themes/henna-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "e9b8479f-62ef-4613-83ea-2acfd2bb1cf0",
+    "publisherId": "73451000-cd83-4100-9266-8acc36ee8405",
+    "publisherDisplayName": "Sami Singh"
   }
 }

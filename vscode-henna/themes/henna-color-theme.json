@@ -1,5 +1,5 @@
 {
-  "name": "henna",
+  "name": "Henna Dark",
   "colors": {
     "activityBar.background": "#e74c3c",
     "activityBar.dropBackground": "#21272e",
@@ -7,10 +7,10 @@
     "activityBarBadge.foreground": "#f8f8f0",
     "activityBarBadge.background": "#21272e",
     "button.background": "#53df83",
-		"button.foreground": "#21272e",
-		"button.hoverBackground": "#30c965",
+    "button.foreground": "#21272e",
+    "button.hoverBackground": "#30c965",
     "dropdown.background": "#21272e",
-		"dropdown.foreground": "#53df83",
+    "dropdown.foreground": "#53df83",
     "dropdown.border": "#53df83",
     "dropdown.listBackground": "#181A1F",
     "editor.background": "#21272e",
@@ -20,7 +20,7 @@
     "editorCursor.foreground": "#1abc9c",
     "editor.findMatchBackground": "#1abc9c80",
     "editor.findMatchHighlightBackground": "#56b5c240",
-    "editorGroup.background": "#181A1F",
+    "editorGroup.emptyBackground": "#181A1F",
     "editorGroup.border": "#181A1F",
     "editorGroupHeader.tabsBackground": "#181A1F",
     "editorIndentGuide.background": "#3B4048",
@@ -33,7 +33,7 @@
     "editorSuggestWidget.selectedBackground": "#2c313a",
     "editorWidget.background": "#21272e",
     "editor.wordHighlightBackground": "#161416",
-    
+
     "input.background": "#161416",
     "input.border": "#10151a",
     "input.foreground": "#f8f8f0",
@@ -48,7 +48,6 @@
     "list.inactiveSelectionBackground": "#21272e",
     "list.hoverBackground": "#21272e",
     "list.focusBackground": "#21272e",
-    "notification.background": "#21272e",
     "sideBar.background": "#181A1F",
     "sideBarSectionHeader.background": "#21272e",
     "statusBar.background": "#21272e",
@@ -69,11 +68,7 @@
   "tokenColors": [
     {
       "name": "Iron",
-      "scope": [
-        "support.type.property-name",
-        "support.variable",
-        "variable"
-      ],
+      "scope": ["support.type.property-name", "support.variable", "variable"],
       "settings": {
         "foreground": "#f8f8f0"
       }
@@ -93,19 +88,14 @@
     },
     {
       "name": "Fountain Blue",
-      "scope": [
-        "constant",
-        "keyword.other.unit"
-      ],
+      "scope": ["constant", "keyword.other.unit"],
       "settings": {
         "foreground": "#56b6c2"
       }
     },
     {
       "name": "Shuttle Gray",
-      "scope": [
-        "comment"
-      ],
+      "scope": ["comment"],
       "settings": {
         "foreground": "#606F73"
       }
@@ -131,12 +121,7 @@
     },
     {
       "name": "Olivine",
-      "scope": [
-        "string",
-        "markup.quote",
-        "markup.bold",
-        "markup.italic"
-      ],
+      "scope": ["string", "markup.quote", "markup.bold", "markup.italic"],
       "settings": {
         "foreground": "#53df83"
       }
@@ -158,31 +143,21 @@
     },
     {
       "name": "Harvest Gold",
-      "scope": [
-        "entity.name.tag",
-        "storage",
-        "variable.language"
-      ],
+      "scope": ["entity.name.tag", "storage", "variable.language"],
       "settings": {
         "foreground": "#9cd230"
       }
     },
     {
       "name": "Sunglo",
-      "scope": [
-        "keyword",
-        "punctuation.definition.keyword"
-      ],
+      "scope": ["keyword", "punctuation.definition.keyword"],
       "settings": {
         "foreground": "#e74c3c"
       }
     },
     {
       "name": "Bold",
-      "scope": [
-        "markup.bold.markdown",
-        "punctuation.definition.bold.markdown"
-      ],
+      "scope": ["markup.bold.markdown", "punctuation.definition.bold.markdown"],
       "settings": {
         "fontStyle": "bold"
       }
