@@ -12,5 +12,5 @@
 <p> Recommended font is <a href="https://github.com/tonsky/FiraCode">Fira Code</a> with <a href="https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions">font ligatures</a>.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/httpsterio/vscode-henna/master/vscode-henna/henna-color-theme.png">
+  <img src="https://raw.githubusercontent.com/httpsterio/vscode-henna/master/vscode-henna/henna-color-theme.jpg">
 </p>
