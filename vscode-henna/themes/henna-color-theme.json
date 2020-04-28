@@ -34,6 +34,14 @@
     "editorWidget.background": "#21272e",
     "editor.wordHighlightBackground": "#161416",
 
+    "quickInput.background": "#21272e",
+    "quickInput.foreground": "#f8f8f0",
+    "quickInputTitle.background": "#e74c3c",
+    "pickerGroup.foreground": "#f8f8f0",
+
+    "menu.foreground": "#f8f8f0",
+    "menu.background": "#21272e",
+
     "input.background": "#161416",
     "input.border": "#10151a",
     "input.foreground": "#f8f8f0",
@@ -43,11 +51,13 @@
     "inputValidation.infoBackground": "#e74c3c",
     "inputValidation.infoBorder": "#10151a",
     "inputValidation.warningBackground": "#e74c3c",
-    "list.activeSelectionBackground": "#21272e",
-    "list.activeSelectionForeground": "#e74c3c",
+    "list.activeSelectionBackground": "#e74c3c",
+    "list.activeSelectionForeground": "#f8f8f0",
     "list.inactiveSelectionBackground": "#21272e",
-    "list.hoverBackground": "#21272e",
-    "list.focusBackground": "#21272e",
+    "list.hoverBackground": "#e74c3c",
+    "list.hoverForeground": "#f8f8f0",
+    "list.focusBackground": "#e74c3c",
+    "list.focusForeground": "#f8f8f0",
     "sideBar.background": "#181A1F",
     "sideBarSectionHeader.background": "#21272e",
     "statusBar.background": "#21272e",
@@ -65,8 +75,7 @@
     "titleBar.inactiveBackground": "#21272e",
     "titleBar.inactiveForeground": "#6B717D"
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "name": "Iron",
       "scope": ["support.type.property-name", "support.variable", "variable"],
       "settings": {
