@@ -2,7 +2,7 @@
   "name": "henna",
   "displayName": "Henna Color Theme",
   "description": "Henna is a colour theme inspired by my green-eyed redhead girl. The colors are carefully selected with legibility and people with dyslexia in mind to create an accessible theme for Visual Studio Code",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "publisher": "httpsterio",
   "homepage": "http://httpster.io/vscode-henna",
   "repository": {
