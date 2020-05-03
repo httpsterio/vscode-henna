@@ -1,6 +1,6 @@
 <h1 align="center">Henna Visual Studio Code Theme</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/httpsterio/vscode-henna/master/vscode-henna/henna-logo.jpg">
+  <img src="https://raw.githubusercontent.com/httpsterio/vscode-henna/master/vscode-henna/logo.png">
 </p>
 
 <p>Henna is a colour theme inspired by my green-eyed redhead girl.</p>
